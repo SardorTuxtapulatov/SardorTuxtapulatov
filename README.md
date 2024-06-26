@@ -1,4 +1,4 @@
-- 👋 Salom, men @davlatbekzoirov!
+- 👋 Salom, men @SardorTuxtapulatov!
 - 👀Men saytlar va botlar, sun'iy intellekt va boshqa narsalarni yaratishga qiziqaman.
 - 🌱 Men hozirda DATA SCIENCE o'rganmoqdaman.
 - 😄 Men biladigan tillar: inglizcha - ravon, o'zbek - ona, rus - ravon
